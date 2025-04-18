@@ -1,6 +1,3 @@
-
-
-
 INSERT INTO region (nombre_r)
 VALUES 
     ('Región Metropolitana'), 
